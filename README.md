@@ -7,7 +7,7 @@ Backend developer
 I've been constantly improving my development skills for 3 years and will be glad to work with you in the same team
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Laineros)
-[![Yandex Mail](https://img.shields.io/badge/-Yandex_Mail-FF0000?style=flat&logo=yandex&logoColor=white)](mailto:leolevchencko@yandex.ru)
+[![Yandex Mail](https://img.shields.io/badge/-leolevchencko@yandex.ru-FF0000?style=flat&logo=yandex&logoColor=white)](https://mail.yandex.ru)
 * 🌍  I'm based in Moscow
 
 ### My skills
